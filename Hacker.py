@@ -21,17 +21,15 @@ spam_chats = []
 @client.on(events.NewMessage(pattern="^/start$"))
 async def start(event):
   await event.reply(
-    "__**𝐈'𝐦 𝐆𝐨𝐡𝐚𝐧 𝐓𝐚𝐠𝐀𝐥𝐥 𝐁𝐨𝐭**, 𝐢 𝐂𝐚𝐧 𝐌𝐞𝐧𝐭𝐢𝐨𝐧 𝐀𝐥𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 𝐈𝐧 𝐆𝐫𝐨𝐮𝐩 𝐎𝐫 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 👻\n𝐂𝐥𝐢𝐜𝐤 **/help** 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧__\n\n 𝐅𝐨𝐥𝐥𝐨𝐰 [𝐒𝐮𝐦𝐢𝐭 𝐘𝐚𝐝𝐚𝐯](https://t.me/Simple_Mundaa) 𝗢𝗻 𝐓𝐞𝐥𝐞𝐆𝐫𝐚𝐦",
+    "__**𝐈'𝐦 𝐆𝐨𝐡𝐚𝐧 𝐓𝐚𝐠𝐀𝐥𝐥 𝐁𝐨𝐭**, 𝐢 𝐂𝐚𝐧 𝐌𝐞𝐧𝐭𝐢𝐨𝐧 𝐀𝐥𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 𝐈𝐧 𝐆𝐫𝐨𝐮𝐩 𝐎𝐫 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 👻\n𝐂𝐥𝐢𝐜𝐤 **/help** 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧__\n\n 𝐅𝐨𝐥𝐥𝐨𝐰 [𝐒𝐮𝐦𝐢𝐭 𝐘𝐚𝐝𝐚𝐯](https://youtube.com/channel/UCtI7hbY-BD7wvuIzoSU0cEw) 𝗢𝗻 𝐓𝐞𝐥𝐞𝐆𝐫𝐚𝐦",
     link_preview=False,
     buttons=(
       [
         Button.url('𝐒𝐮𝐩𝐩𝐨𝐫𝐭', 'https://t.me/World_FriendShip_Zone'),
-        Button.url('𝐘𝐨𝐮𝐭𝐮𝐛𝐞', 'https://t.me/World_FriendShip_Zone'),
         Button.url('𝐔𝐩𝐝𝐚𝐭𝐞', 'https://t.me/The_Superiour_Network')
       ]
     )
   )
-)
 
 @client.on(events.NewMessage(pattern="^/help$"))
 async def help(event):
@@ -42,18 +40,16 @@ async def help(event):
     buttons=(
       [
         Button.url('𝐒𝐮𝐩𝐩𝐨𝐫𝐭', 'https://t.me/World_FriendShip_Zone'),
-        Button.url('𝐘𝐨𝐮𝐭𝐮𝐛𝐞', 'https://t.me/World_FriendShip_Zone'),
         Button.url('𝐔𝐩𝐝𝐚𝐭𝐞', 'https://t.me/The_Superiour_Network')
       ]
     )
   )
-)
-  
+ 
 @client.on(events.NewMessage(pattern="^/all ?(.*)"))
 async def all(event):
   chat_id = event.chat_id
   if event.is_private:
-    return await event.respond("__This command Can Be Use In Groups And Channels @JaiHindChatting !__")
+    return await event.respond("__This command Can Be Use In Groups And Channels @World_FriemdShip_Zone!__")
   
   is_admin = False
   try:
