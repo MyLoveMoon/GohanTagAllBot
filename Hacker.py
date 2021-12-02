@@ -119,5 +119,5 @@ async def cancel_spam(event):
       pass
     return await event.respond('__Stopped.__')
 
-print(">> HACKER TAGALL STARTED <<")
+print(">> 📌𝐆𝐨𝐡𝐚𝐧 𝐓𝐚𝐠𝐀𝐥𝐥 𝐁𝐨𝐭 <<")
 client.run_until_disconnected()
