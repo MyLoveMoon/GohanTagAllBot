@@ -4,9 +4,9 @@
 <p align="center">
     𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗔𝗡𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦🎑
 
-<p align="center"><a href="https://t.me/World_FriendShip_Zone"><img align="center" src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
+<p align="center"><a href="https://t.me/rjbr0"><img align="center" src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
 </p>
-<p align="center"><a href="https://t.me/The_Superiour_Network"><img src="https://telegra.ph/file/4897e471f572949bdd16e.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/rjbr0"><img src="https://telegra.ph/file/4897e471f572949bdd16e.jpg" width="300"></a></p>
 
 
 <p align="center">
