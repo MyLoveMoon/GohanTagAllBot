@@ -6,7 +6,7 @@
 
 <p align="center"><a href="https://t.me/rjbr0"><img align="center" src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
 </p>
-<p align="center"><a href="https://t.me/rjbr0"><img src="https://telegra.ph/file/4897e471f572949bdd16e.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/rjbr0"><img src="https://telegra.ph/file/bdb8f2d7b0f5259bbe5cf.jpg" width="300"></a></p>
 
 
 <p align="center">
